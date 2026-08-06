@@ -1,2 +1,2 @@
-# learning_raylib
-Learning Raylib
+# raylib_game
+Learn how to create a game with raylib
